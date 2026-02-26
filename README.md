@@ -1,16 +1,5 @@
 
 
-<div align="center">
-	<h1>Level 5 Autonomy V2V Communication System</h1>
-  
-	<p>
-		<a href="https://github.com/Kaushalt2004/Sheildmotion/actions"><img src="https://img.shields.io/github/workflow/status/Kaushalt2004/Sheildmotion/CI?style=flat-square" alt="CI Status"></a>
-		<a href="https://github.com/Kaushalt2004/Sheildmotion/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Kaushalt2004/Sheildmotion?style=flat-square" alt="License"></a>
-		<a href="https://github.com/Kaushalt2004/Sheildmotion/stargazers"><img src="https://img.shields.io/github/stars/Kaushalt2004/Sheildmotion?style=flat-square" alt="Stars"></a>
-		<a href="https://github.com/Kaushalt2004/Sheildmotion/network/members"><img src="https://img.shields.io/github/forks/Kaushalt2004/Sheildmotion?style=flat-square" alt="Forks"></a>
-	</p>
-</div>
-
 ---
 
 ## 🚗 Overview
